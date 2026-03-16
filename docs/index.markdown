@@ -1,9 +1,10 @@
 ---
 layout: default
+title: 作品一覧
 ---
 
 ## 「VEIL」
-### [github.com/tkou2027/dx28-pinball](https://github.com/tkou2027/dx28-pinball)
+### [github.com/tkou2027/dx28-pinball](https://github.com/tkou2027/dx28-pinball)  🌟おすすめ
 <img alt="image_veil" src="images/image_veil.gif" class="feature_image">
 * 3Dアクションゲーム + フレームワーク
 * 2025/11~2025/02 個人制作
@@ -22,7 +23,7 @@ layout: default
 ----
 
 ## 「MELT」
-### [github.com/tkou2027/hew-cp18](https://github.com/tkou2027/hew-cp18)
+### [github.com/tkou2027/hew-cp18](https://github.com/tkou2027/hew-cp18)  🌟おすすめ
 <img alt="image_melt" src="images/image_melt.gif" class="feature_image">
 * 3Dパズルゲーム + フレームワーク
 * 2025/01~2025/03 個人制作
