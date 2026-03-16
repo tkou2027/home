@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+ul {
+    padding-inline-start: 20px;
+}
+
+img.feature_image
+{
+    width: 240px;
+}
+
+p:has(img.feature_image) {
+    display: inline-block;
+    margin-right: 20px;
+}
+p:has(img.feature_image) + ul {
+    display: inline-block;
+    vertical-align: top;
+    min-width: 320px;
+}
