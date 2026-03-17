@@ -37,9 +37,10 @@ logo_video: "https://github.com/user-attachments/assets/d2683ba0-6e06-473d-9072-
 # theme: minima
 #plugins:
 #  - jekyll-feed
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-minimal
+#remote_theme: pages-themes/minimal@v0.2.0
+#plugins:
+#- jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
