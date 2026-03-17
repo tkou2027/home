@@ -3,6 +3,15 @@
 
 @import "{{ site.theme }}";
 
+.logo_video {
+    max-width: 360px;
+    max-height: 240px;
+    video {
+        max-width: 100%;
+        max-height: 100%;
+    }
+}
+
 .wrapper {
     ul {
         padding-inline-start: 20px;
@@ -22,4 +31,8 @@
         vertical-align: top;
         min-width: 320px;
     }
+}
+
+@media print, screen and (max-width: 960px) {
+  header { padding-right: 0px; }
 }
