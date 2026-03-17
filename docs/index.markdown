@@ -7,7 +7,7 @@ title: 作品一覧
 ### [github.com/tkou2027/dx28-pinball](https://github.com/tkou2027/dx28-pinball)  🌟おすすめ
 <img alt="image_veil" src="images/image_veil.gif" class="feature_image">
 * 3Dアクションゲーム + フレームワーク
-* 2025/11~2025/02 個人制作
+* 2025/11~2026/02 個人制作
 * C++・DirectX11
 * プロトタイプ版は学内コンテストで技術力賞受賞
 
@@ -17,7 +17,7 @@ title: 作品一覧
 ### [github.com/tkou2027/at28-dash](https://github.com/tkou2027/at28-dash)
 <img alt="image_dejikado" src="images/image_dejikado.gif" class="feature_image">
 * 3Dアクションゲーム
-* 2025/03 チーム制作
+* 2026/03 チーム制作
 * C++・DirectX11
 
 ----
